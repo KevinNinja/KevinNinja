@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KevinNinja
+- 👀 I’m interested in ethical hacking
+- 🌱 I’m currently learning python
